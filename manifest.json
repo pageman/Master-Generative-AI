@@ -1,0 +1,21 @@
+
+{
+  "short_name": "GenAI Guide",
+  "name": "Generative AI Mastery Guide",
+  "icons": [
+    {
+      "src": "https://picsum.photos/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff"
+}
